@@ -8,7 +8,7 @@ An **algorithm** is a **step-by-step procedure** for solving a specific problem.
 | --- | --- | --- |
 | **Sorting** | Bubble Sort, Merge Sort, Quick Sort, Insertion Sort | Arrange data in order |
 | **Searching** | Binary Search, Linear Search | Find element in array or list |
-| **Graph** | Dijkstra’s, BFS, DFS, Kruskal’s, Prim’s | Pathfinding, traversal, MST, etc. |
+| **Graph** | Dijkstra’s, BFS, DFS, Kruskal’s, Prim’s | Pathfinding, traversal, MST, etc. ||
 | **Dynamic Programming** | Knapsack, Longest Subsequence, Matrix Chain Multiplication | Optimize overlapping problems |
 | **Greedy** | Activity Selection, Huffman Encoding | Make optimal local choices |
 | **Math** | Euclidean Algorithm, Sieve of Eratosthenes | GCD, primes, number theory problems |
