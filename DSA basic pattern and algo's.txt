@@ -1,6 +1,6 @@
 ####  **What is an Algorithm?**
 
-An **algorithm** is a **step-by-step procedure** for solving a specific problem.
+An **algorithm*** is a **step-by-step procedure** for solving a specific problem.
 
 ### 🔹 Examples of Algorithms:
 
