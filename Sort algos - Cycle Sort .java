@@ -1,4 +1,4 @@
-# Algorithm : Cycle sort and steps
+## Algorithm : Cycle sort and steps
 
 ### ✅ **Cycle Sort (Code + Step-by-Step Explanation)**
 
